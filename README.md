@@ -21,7 +21,7 @@ A lightweight Windows clipboard manager that records everything you copy — tex
 
 ### Option 1: Download & Extract (recommended)
 
-1. Download `ClipboardHistory.zip` from the [latest release](https://github.com/YOUR_USERNAME/clipboard-history/releases)
+1. Download `ClipboardHistory.zip` from the [latest release](https://github.com/mjsakasaka/clipboard-history/releases)
 2. Extract the `ClipboardHistory/` folder to any location you like (e.g. `Desktop` or `Program Files`)
 3. Double-click `ClipboardHistory.exe` to run
 
@@ -31,7 +31,7 @@ All data (database and images) will be stored inside the `data/` folder alongsid
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/clipboard-history.git
+git clone https://github.com/mjsakasaka/clipboard-history.git
 cd clipboard-history
 
 # 2. Install dependencies
